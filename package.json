@@ -43,6 +43,35 @@
       "inject": [
         "@deepseek-ai/dsh-client-ui-theme"
       ]
+    },
+    "manifest": {
+      "id": "dsh-theme-cyberpunk2077",
+      "name": "Cyberpunk 2077 \u2014 Night City",
+      "version": "0.1.4",
+      "surfaces": {
+        "theme": [
+          "--dsw-alias-bg-base",
+          "--dsw-alias-bg-layer-1",
+          "--dsw-alias-bg-layer-2",
+          "--dsw-alias-bg-overlay",
+          "--dsw-alias-border-l1",
+          "--dsw-alias-border-l2",
+          "--dsw-alias-brand-primary",
+          "--dsw-alias-label-primary",
+          "--dsw-alias-label-secondary",
+          "--dsw-alias-state-error-primary",
+          "--dsw-alias-state-success-primary",
+          "--dsw-alias-state-warn-primary",
+          "--dsw-specific-sidebar-fill"
+        ],
+        "client": true,
+        "slots": []
+      },
+      "replaces": [],
+      "conflictsWith": {},
+      "ui": {
+        "hygiene": "full"
+      }
     }
   },
   "license": "MIT"
