@@ -8,7 +8,7 @@
 
 Cyberpunk 2077（夜之城）风格的 DSH Web UI 主题。纯浏览器客户端插件，零音频资源——所有声音都是 Web Audio 实时合成，不下载一个字节的音频文件。
 
-![NIGHT CITY — screenshot](https://raw.githubusercontent.com/kingOfSoySauce/dsh-skin-market/main/site/public/skin-screenshots/Tommy00748__dsh-theme-cyberpunk2077/a3681ee431f59c64b8bf37d34ee609ddc7811278/home.gif)
+![NIGHT CITY — screenshot](assets/screenshot.gif)
 
 ## ✨ 这是什么
 
